@@ -1,0 +1,57 @@
+body {
+  background-color:#EEEEEE;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #333333;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  color:#FF0000;
+  background-color:#888888;
+
+}
+
+
+h3{
+  color: #8B008B;
+  background-color:#AAAAAA;
+  font-size: 1.5rem;
+}
+
+blockquote {
+  font-style: oblique;
+}
+
+pre {
+  background-color: white;
+}
+
+strong {
+  color:#00896E;
+  font-weight: normal;
+}
+
+em{
+  color: #2600FF;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: underline;
+  
+}
+
+p {
+  text-align: justify;
+  background-color:#CCCCCC;
+  line-height: 150%;
+}
+
+address {
+  background-color: white;
+  font-style: normal;
+  text-align: right;
+}
